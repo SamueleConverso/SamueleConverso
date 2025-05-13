@@ -83,9 +83,7 @@ Nel mio percorso ho acquisito dimestichezza anche con diversi strumenti e ambien
 📫 Sentiti libero di contattarmi per collaborazioni, offerte di lavoro o anche solo per fare networking!
 
 - 💼 **LinkedIn**: [linkedin.com/in/samuele-converso](https://www.linkedin.com/in/placeholder)
-- 💻 **Portfolio personale**: [samueleconverso.dev](https://www.placeholder.dev)
-- 📧 **Email**: samuele.converso@example.com
-- 🐙 **GitHub**: [github.com/samueleconverso](https://github.com/samueleconverso)
+- 🐙 **GitHub**: [github.com/samueleconverso](https://github.com/SamueleConverso)
 
 ---
 
