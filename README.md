@@ -9,7 +9,7 @@
 ## 📜 Chi sono
 
 Mi chiamo **Samuele Converso**, ho 27 anni e sono nato e cresciuto a Roma dove vivo tuttora.  
-Dopo aver conseguito il Diploma di Maturità di **Liceo Scientifico**, mi sono Laureato in **Scienze del Turismo** presso **Sapienza Università di Roma** e contemporaneamente non ho mai abbandonato la mia grande **passione per l'informatica** e la **programmazione**, che mi accompagna fin da giovanissimo.  
+Dopo aver conseguito il Diploma di Maturità di **Liceo Scientifico**, mi sono Laureato in **Scienze del Turismo** presso **Sapienza Università di Roma** e contemporaneamente non ho mai abbandonato la mia grande **passione per l'informatica** e la **programmazione** che mi accompagna fin da giovanissimo.  
 
 Ho deciso di trasformare questa mia forte passione in una vera e propria carriera: per questo, dopo la Laurea, ho frequentato il **corso intensivo full-time da Full-Stack Web Developer** presso **Epicode Institute of Technology**, dove ho potuto formarmi in maniera completa sia lato **frontend** che **backend**.  
 Ora sono pronto a dare il massimo nel mondo dello sviluppo software! 🚀
