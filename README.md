@@ -1,7 +1,7 @@
 # 👋 Ciao, sono **Samuele Converso**!
 
 🙋🏻 **27 anni | Roma, Lazio, Italia**  
-💻 **Full-Stack Web Developer | Formato presso Epicode**  
+💻 **Full-Stack Web Developer | Epicode Institute of Technology**  
 🎓 **Laureato in Scienze del Turismo | Sapienza Università di Roma**    
 
 ---
