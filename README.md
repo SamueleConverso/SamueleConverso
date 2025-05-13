@@ -23,7 +23,7 @@ Ora sono pronto a dare il massimo nel mondo dello sviluppo software! 🚀
 - 🖌️ **Bootstrap** | 🎨 **Tailwind CSS**
 - 📜 **JavaScript (ES6+)**
 - ⚛️ **React** con:  
-  - ⚙️ **TypeScript**  
+  - ⚙️ **JavaScript | TypeScript**  
   - ⚡ **Vite**
   - 📦 **Redux**
   - 🧭 **React Router DOM**
