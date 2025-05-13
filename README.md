@@ -1,16 +1,16 @@
 # 👋 Ciao, sono **Samuele Converso**!
 
-🎓 **27 anni | Roma, Italia**  
-👨‍💻 **Full-Stack Web Developer | Creativo | Appassionato di tecnologia**  
-🌍 Nato e cresciuto nella splendida città di Roma.  
+🙋🏻 **27 anni | Roma, Italia**  
+💻 **Full-Stack Web Developer | Creativo e Appassionato di tecnologia**  
+🎓 **Laureato in Scienze del Turismo presso Sapienza Università di Roma**    
 
 ---
 
 ## 📜 Chi sono
 
-Mi chiamo **Samuele Converso** e ho 27 anni. Dopo aver frequentato il **Liceo Scientifico**, mi sono laureato in **Scienze del Turismo**, ma non ho mai abbandonato la mia **passione per l'informatica** e la **programmazione**, che mi accompagna fin da giovanissimo. 🧠💡
+Mi chiamo **Samuele Converso**, sono nato e cresciuto a Roma dove vivo tuttora e ho 27 anni. Dopo aver frequentato il **Liceo Scientifico**, mi sono laureato in **Scienze del Turismo** presso **Sapienza Università di Roma**, ma non ho mai abbandonato la mia **passione per l'informatica** e la **programmazione**, che mi accompagna fin da giovanissimo. 🧠💡
 
-Ho deciso di trasformare questa passione in una vera e propria carriera: per questo ho frequentato il **corso intensivo full-time da Full-Stack Web Developer** presso **Epicode**, dove ho potuto formarmi in maniera completa sia lato **frontend** che **backend**.  
+Ho deciso di trasformare questa mia forte passione in una vera e propria carriera: per questo ho frequentato il **corso intensivo full-time da Full-Stack Web Developer** presso **Epicode**, dove ho potuto formarmi in maniera completa sia lato **frontend** che **backend**.  
 Ora sono pronto a dare il massimo nel mondo dello sviluppo software! 🚀
 
 ---
