@@ -36,9 +36,11 @@ Mi piace creare interfacce moderne, reattive e user-friendly, sempre ponendo att
 
 🔧 Il backend è il motore dell’applicazione. Qui ho approfondito:
 
-- 🧠 **C#**
-- 🔧 **ASP.NET Core**
-- 🗃️ **Entity Framework Core**
+- 🧠 **C#**  
+- 🧱 **Pattern MVC**  
+- ⚙️ **.NET**  
+- 🔧 **ASP.NET Core**  
+- 🗃️ **Entity Framework Core**  
 - 🔐 **Microsoft Identity**
 - 💽 **SQL Server & SSMS**
 - 🧾 **T-SQL**
