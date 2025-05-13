@@ -80,9 +80,9 @@ Nel mio percorso ho acquisito dimestichezza anche con diversi strumenti e ambien
 - 🧮 **SQL Server Management Studio (SSMS)** – per la gestione e analisi dei database
 - 🌳 **Node.js** – per tool di sviluppo frontend e pacchetti
 - ⚡ **SWC (Speedy Web Compiler)** – per build rapide e moderne  
-- 📬 **Postman** - test e documentazione delle API REST  
-- 🟩 **Swagger** - interfaccia per la documentazione e il testing delle API  
-- 🔷 **Azure** - panoramica dei servizi cloud Microsoft (hosting, DB, autenticazione)  
+- 📬 **Postman** – test e documentazione delle API REST  
+- 🟩 **Swagger** – interfaccia per la documentazione e il testing delle API  
+- 🔷 **Azure** – panoramica dei servizi cloud Microsoft (hosting, DB, autenticazione)  
 
 ---
 
