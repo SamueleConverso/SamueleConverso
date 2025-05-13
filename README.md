@@ -79,9 +79,9 @@ Nel mio percorso ho acquisito dimestichezza anche con diversi strumenti e ambien
 - 🧮 **SQL Server Management Studio (SSMS)** – per la gestione e analisi dei database
 - 🌳 **Node.js** – per tool di sviluppo frontend e pacchetti
 - ⚡ **SWC (Speedy Web Compiler)** – per build rapide e moderne
-- 📬 **Postman**
-- 🔷 **Azure**
-- 🟩 **Swagger**
+- 🔷 **Azure**  
+- 📬 **Postman**  
+- 🟩 **Swagger**  
 
 ---
 
