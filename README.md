@@ -50,7 +50,9 @@ Ho imparato a progettare architetture solide, sicure ed efficienti, creando **AP
 
 ---
 
-## 🎮 Progetto finale: GameVerse
+## 🎮 Progetto finale: GameVerse  
+
+👉🏻 [GameVerse](https://github.com/SamueleConverso/capstone-project)  
 
 🚀 Il mio progetto di fine corso si chiama **GameVerse**: un portale pensato per connettere **gamer** e **sviluppatori di videogiochi** in un unico spazio condiviso.
 
@@ -83,7 +85,7 @@ Nel mio percorso ho acquisito dimestichezza anche con diversi strumenti e ambien
 📫 Sentiti libero di contattarmi per collaborazioni, offerte di lavoro o anche solo per fare networking!
 
 - 💼 **LinkedIn**: [linkedin.com/in/samuele-converso](https://www.linkedin.com/in/placeholder)
-- 🐙 **GitHub**: [github.com/samueleconverso](https://github.com/SamueleConverso)
+- 🐙 **GitHub**: [https://github.com/SamueleConverso](https://github.com/SamueleConverso)
 
 ---
 
