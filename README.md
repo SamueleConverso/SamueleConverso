@@ -85,8 +85,8 @@ Nel mio percorso ho acquisito dimestichezza anche con diversi strumenti e ambien
 
 📫 Sentiti libero di contattarmi per collaborazioni, offerte di lavoro o anche solo per fare networking!
 
-- 💼 **LinkedIn**: **[LinkedIn]**(https://www.linkedin.com/in/samuele-converso-b13999326/)
-- 🐙 **GitHub**: [https://github.com/SamueleConverso](https://github.com/SamueleConverso)
+- 💼 [LinkedIn](https://www.linkedin.com/in/samuele-converso-b13999326/)
+- 🐙 [GitHub](https://github.com/SamueleConverso)
 
 ---
 
