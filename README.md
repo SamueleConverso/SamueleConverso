@@ -1,6 +1,6 @@
 # 👋 Ciao, sono **Samuele Converso**!
 
-🙋🏻 **27 anni | Roma, Italia**  
+🙋🏻 **27 anni | Roma, Lazio, Italia**  
 💻 **Full-Stack Web Developer | Creativo e Appassionato di tecnologia**  
 🎓 **Laureato in Scienze del Turismo presso Sapienza Università di Roma**    
 
