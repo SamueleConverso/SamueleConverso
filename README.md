@@ -58,6 +58,12 @@ Ho imparato a progettare architetture solide, sicure ed efficienti, creando **AP
 
 🚀 Il mio progetto di fine corso si chiama **GameVerse**: un portale pensato per connettere **gamer** e **sviluppatori di videogiochi** in un unico spazio condiviso.
 
+
+
+https://github.com/user-attachments/assets/bad57971-8118-4cec-ab37-73674d241c8d
+
+
+
 🧩 Caratteristiche principali:  
 
 - 👤 **Registrazione e Login sicuri** con token JWT
